@@ -1,0 +1,34 @@
+﻿[
+      {
+        "Index": 0,
+        "Name": "Account1",
+        "API_ID": "",
+        "API_HASH": "",
+        "Phone": "+12223334455",
+        "Active": true,
+        "Farming": true,
+        "FriendBonus": true,
+        "Task": true,
+        "TaskSleep": [ 7, 20 ],
+        "DailyQuestions": true,
+        "Upgrade": true,
+        "DaySleep": [ 12000, 16000 ],
+        "NightSleep": [ 20000, 25000 ]
+      },
+      {
+        "Index": 1,
+        "Name": "Account2",
+        "API_ID": "",
+        "API_HASH": "",
+        "Phone": "+12223334455",
+        "Active": true,
+        "Farming": true,
+        "FriendBonus": true,
+        "Task": true,
+        "TaskSleep": [ 7, 20 ],
+        "DailyQuestions": true,
+        "Upgrade": true,
+        "DaySleep": [ 12000, 16000 ],
+        "NightSleep": [ 20000, 25000 ]
+      }
+]
